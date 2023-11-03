@@ -11,6 +11,7 @@
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
+  
 }
 
 .App-header {
@@ -35,4 +36,8 @@
   to {
     transform: rotate(360deg);
   }
+}
+.btn{
+  margin-right: 10px;
+  padding-right: 10px;
 }
